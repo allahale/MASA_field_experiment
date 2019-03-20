@@ -1,4 +1,4 @@
-# MASA_field_experiment
+# MASA field experiment
 
 Authors: Alla Hale, Grant Whittington, Adam Yang, and Siobhan Harrington
 
